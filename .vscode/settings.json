@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "rcc.h": "c",
+        "gpio.h": "c",
+        "can.h": "c",
+        "flash.h": "c",
+        "core_cm3.h": "c",
+        "stdint.h": "c",
+        "stddef.h": "c",
+        "cstdint": "c",
+        "systick.h": "c"
+    }
+}
